@@ -4,5 +4,10 @@ Emoji
 Type option
 Vibrant
 colors
+
 Dark mode
 Video calls
+
+Payment option
+send money
+Receive money
